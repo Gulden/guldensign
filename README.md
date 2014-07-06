@@ -7,5 +7,7 @@ Basically, by including a single css file into any website, the character `Ġ` i
 
 [More info in the docs.](https://docs.guldencoin.com/guldensign)
 
+The guldensign font is created with [fontforge](http://fontforge.org/).
+
 ### License
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
