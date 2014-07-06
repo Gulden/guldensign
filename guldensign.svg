@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2014-6-13: Created.
+-->
+<svg>
+<metadata>
+Created by FontForge 20120731 at Sun Jul  6 22:34:33 2014
+ By Geert-Johan,,,
+Created by Geert-Johan Riemer, with FontForge 2.0
+</metadata>
+<defs>
+<font id="guldensign" horiz-adv-x="4096" >
+  <font-face 
+    font-family="guldensign"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="4096"
+    panose-1="2 0 6 9 0 0 0 0 0 0"
+    ascent="3277"
+    descent="-819"
+    bbox="0 0 2950 2950"
+    underline-thickness="204"
+    underline-position="-409"
+    unicode-range="U+0120-0120"
+  />
+    <missing-glyph />
+    <glyph glyph-name="Gdotaccent" unicode="&#x120;" 
+d="M1475 0c-815 0 -1475 660 -1475 1475c0 813 660 1475 1475 1475c407 0 775 -166 1043 -432l-224 -224c-210 209 -500 339 -819 339c-640 0 -1159 -519 -1159 -1158c0 -640 519 -1159 1159 -1159c585 0 1070 435 1147 1000h-1147v316h1158h317v-157
+c0 -815 -662 -1475 -1475 -1475z" />
+  </font>
+</defs></svg>

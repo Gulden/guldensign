@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>guldensign example/test</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+
+		<link rel="stylesheet" type="text/css" href="guldensign.css" />
+		<style>
+			h1 {
+				/* local fonts still work */
+				font-family: Verdana;
+			}
+			body {
+				/* works well with line height */
+				line-height: 120%;
+			}
+			.show-letter {
+				background-color: #9999ff;
+				margin: 20px;
+			}
+		</style>
+	</head>
+	<body>
+		ABCGĠABC<br/>
+		<h1>ABCGĠABC</h1><br/>
+
+		Some examples:
+		Ġ100.00 (normal)<br/>
+		<strong>Ġ100.00</strong> (strong)<br/>
+		<u>Ġ100.00</u> (underlined)<br/>
+		<strong><u>Ġ100.00</u></strong> (strong+underlined)<br/>
+		<h2>Ġ100.00 (h2)</h2><br/>
+		<br/>
+		Example to see how the character behaves (outline):<br/>
+		<span class="show-letter" >A</span><span class="show-letter" >B</span><span class="show-letter" >J</span><span class="show-letter" >a</span><span class="show-letter" >b</span><span class="show-letter" >j</span><span class="show-letter" >Ġ</span><br/>
+		<br/>
+		There is a bit of whitespace included in the the Ġ glyph. There's no need for extra whitespace between the Ġ and the amount.<br/>
+		<span class="show-letter">Ġ123.4567</span>
+	</body>
+</html>
