@@ -7,3 +7,19 @@
 	font-weight: normal;
 	font-style: normal;
 }
+
+.guldensign {
+	font-family: 'guldensign';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.guldensign:before {
+	content: "\0120";
+}
