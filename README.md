@@ -7,7 +7,7 @@ Basically, by including a single css file into any website, the character `Ġ` i
 
 [More info in the docs.](https://docs.guldencoin.com/guldensign)
 
-The guldensign font is created with [fontforge](http://fontforge.org/) and (FontSquirrel's webfont tool](http://www.fontsquirrel.com/tools/webfont-generator).
+The guldensign font is created with [fontforge](http://fontforge.org/) and [FontSquirrel's webfont tool](http://www.fontsquirrel.com/tools/webfont-generator).
 
 Export the ttf from fontforge. Then use FontSquirrel's webfont tool to create woff, eot, svg and a new ttf.
 Mostly use default settings:
