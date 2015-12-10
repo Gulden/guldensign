@@ -3,9 +3,7 @@
 
 This repository contains the source and distribution files for the guldensign website supplement.
 
-Basically, by including a single css file into any website, the character `Ġ` is converted to a Guldencoin valuta sign.
-
-[More info in the docs.](https://docs.guldencoin.com/guldensign)
+Basically, by including a single css file into any website, the character `Ġ` is converted to a Gulden valuta sign.
 
 The guldensign font is created with [fontforge](http://fontforge.org/) and [FontSquirrel's webfont tool](http://www.fontsquirrel.com/tools/webfont-generator).
 
